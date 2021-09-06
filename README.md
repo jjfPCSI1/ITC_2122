@@ -38,6 +38,6 @@ En règle générale, la deadline est fixée au mardi qui suit la dernière séa
 consacrée à ce TP en particulier.
 
 | Numéro du TP | Deadline |
-| ------------ | -------- |
+|:------------:|:--------:|
 | TP01         | Mardi 21 septembre à 20h00 |
 | TP02         | Mardi 05 octobre à 20h00 |
