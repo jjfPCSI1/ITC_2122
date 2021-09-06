@@ -29,10 +29,9 @@ NB: pour que votre note soit bien prise en compte, il faut **absolument** que
 votre fichier compile correctement, c'est-à-dire qu'il n'y ait pas d'erreur de 
 syntaxe et que la note soit bien affichée sur la console après exécution du 
 fichier. Prenez donc bien soin que cela fonctionne et si vous n'arrivez pas à 
-débugguer une situation particulière, pas de panique, [ouvrez un 
-ticket](../issues/new/) (suivez les indications de cette 
-[vidéo](https://youtu.be/4deZDuLtKtY) et décrivez explicitement votre 
-problème), Mr Fleck viendra vous aider dès que possible.
+débugguer une situation particulière, pas de panique, ouvrez un ticket (suivez 
+les indications de cette [vidéo](https://youtu.be/4deZDuLtKtY) et décrivez 
+explicitement votre problème), Mr Fleck viendra vous aider dès que possible.
 
 En règle générale, la deadline est fixée au mardi qui suit la dernière séance 
 consacrée à ce TP en particulier.
