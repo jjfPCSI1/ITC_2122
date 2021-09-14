@@ -4,16 +4,18 @@ from test_TP02z import *
 # Procédure d'exécution des tests
 ##################################
 
-DICO  = {'01_acces': AccesTest,
-         '02_cubes': ListeCubesTest,
-         '03_prixtotal': PrixTotalTest,
-         '04_magic': CarreMagiqueTest,
-         '05_pop': PopTest,
-         '06_slicing': SlicingTest,
-         '07_appariement': AppariementTest,
-         '08_cinema': CinemaTest,
-         '09_stock': StockTest,
-         '10_pile': PileTest,
+DICO  = {'01_liste': AccesTest,
+         '02_dico': AccesDicoTest,
+         '03_cubes': ListeCubesTest,
+         '04_sur_20': Dico20Test,
+         '05_prixtotal': PrixTotalTest,
+         '06_prixtotal_dico': PrixTotalDicoTest,
+         '07_magic': CarreMagiqueTest,
+         '08_pop': PopTest,
+         '09_slicing': SlicingTest,
+         '10_cinema': CinemaTest,
+         '11_stock': StockTest,
+         '12_pile': PileTest,
             }
 
 
