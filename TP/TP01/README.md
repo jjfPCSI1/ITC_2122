@@ -77,7 +77,7 @@ Faire des boucles
 **STOP GITLAB**: Allez sur Github Desktop pour faire un commit. Choisissez vous-même (avec pertinence) le résumé. Pensez aussi à appuyer sur le bouton «Push origin» en haut à droite pour mettre à jour sur le serveur web.
 
 
-9.  Stocker dans la variable `somme_divisibles_par_333_et_813` la somme des entiers entre 1 et qui soient à la fois divisibles par 333 et 813.
+9.  Stocker dans la variable `somme_divisibles_par_333_et_813` la somme des entiers entre 1 et 1 000 000 qui soient à la fois divisibles par 333 et 813.
 
 **STOP GITLAB**: Allez sur Github Desktop pour faire un commit. Choisissez vous-même (avec pertinence) le résumé. Pensez aussi à appuyer sur le bouton «Push origin» en haut à droite pour mettre à jour sur le serveur web.
 
@@ -162,7 +162,7 @@ Quelques mélanges
     Lorsque cela n’est pas précisé explicitement, les inégalités sont au
     sens large.
     La fonction doit tester tous les critères et s’ils sont vérifiés
-    tous les 5, elle doit renvoyer `"Très probable"`. Si seulement 3 ou 4 sont vérifiés,
+    tous les 5, elle doit renvoyer `"Tres probable"`. Si seulement 3 ou 4 sont vérifiés,
     elle doit renvoyer `"Probable"`. Si aucun n’est vérifié elle doit renvoyer `"Impossible"` et
     dans les autres cas, elle doit renvoyer `"Peu probable"`.
 
