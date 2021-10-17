@@ -107,7 +107,7 @@ def le_plus_long_en_altitude(n):
 # Ligne suivante a decommenter pour tester le plus haut en altitude
 #if __name__ == '__main__': testeur.fais_tests('11_plus_long_en_altitude_Collatz')
 
-def le_plus_haut_avant_la_chute(n):
+def le_plus_long_avant_la_chute(n):
     """ (int) -> [int, int] """
     return [0, 0]
 
