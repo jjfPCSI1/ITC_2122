@@ -131,5 +131,7 @@ def tout_en_un(n):
     """ (int) -> list([int, int])"""
 
 
+# Ligne suivante a decommenter pour tester
+#if __name__ == '__main__': testeur.fais_tests('13_tout_en_un_Collatz')
 # Calcul de la note finale
 if __name__ == '__main__': testeur.detaille_note()
