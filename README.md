@@ -42,5 +42,3 @@ consacrée à ce TP en particulier.
 | TP02         | Mardi 05 octobre à 20h00 |
 | TP03         | Mardi 19 octobre à 20h00 |
 | TP04         | Mardi 16 novembre à 20h00 |
-| TP03         | Mardi 19 octobre à 20h00 |
-| TP04         | Mardi 16 novembre à 20h00 |
