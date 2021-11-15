@@ -100,13 +100,13 @@ def feux_de_foret(altitudes,impacts):
 # Lignes suivantes commencant par '#if' a decommenter pour tester
 
 # Les tests rapides d'abord.
-#if __name__ == '__main__': testeur.fais_tests('04_foret_rapide')
+#if __name__ == '__main__': testeur.fais_tests('05_foret_rapide')
 
 # Puis ceux qui prennent un peu plus de temps pour tester l'efficacite de l'algorithme choisi.
-#if __name__ == '__main__': testeur.fais_tests('05_foret_long')
+#if __name__ == '__main__': testeur.fais_tests('06_foret_long')
 
 # Enfin ceux qui prennent *vraiment* longtemps, qui impose une efficacite optimale.
-#if __name__ == '__main__': testeur.fais_tests('06_foret_tres_long')
+#if __name__ == '__main__': testeur.fais_tests('07_foret_tres_long')
 
 
 # ***************************************************************************
@@ -122,16 +122,16 @@ def range_petits_pois(nb_petits_pois):
 # Lignes suivantes (commencant par '#if' a decommenter pour tester
 
 # Tests pour petites valeurs de nb_petits_pois:
-#if __name__ == '__main__': testeur.fais_tests('07_petits_pois_rapide')
+#if __name__ == '__main__': testeur.fais_tests('08_petits_pois_rapide')
 
 # Tests pour valeurs moyennes de nb_petits_pois:
-#if __name__ == '__main__': testeur.fais_tests('08_petits_pois_moyen')
+#if __name__ == '__main__': testeur.fais_tests('09_petits_pois_moyen')
 
 # Tests pour grandes valeurs de nb_petits_pois:
-#if __name__ == '__main__': testeur.fais_tests('09_petits_pois_long')
+#if __name__ == '__main__': testeur.fais_tests('10_petits_pois_long')
 
 # Tests pour tres grandes valeurs de nb_petits_pois:
-#if __name__ == '__main__': testeur.fais_tests('10_petits_pois_tres_long')
+#if __name__ == '__main__': testeur.fais_tests('11_petits_pois_tres_long')
 
 # Calcul de la note finale
 if __name__ == '__main__': testeur.detaille_note()
