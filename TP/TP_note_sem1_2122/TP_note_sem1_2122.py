@@ -75,7 +75,7 @@ def recherche_fichier(chemin, extension):
     return "Liste de chemins de fichiers"
 
 # Lignes suivantes a decommenter pour tester
-if __name__ == '__main__': testeur.fais_tests('06_recherche_fichiers_simple')
+#if __name__ == '__main__': testeur.fais_tests('06_recherche_fichiers_simple')
 #if __name__ == '__main__': testeur.fais_tests('07_recherche_fichiers_dur')
 
 # ***************************************************************************
